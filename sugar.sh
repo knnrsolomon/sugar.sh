@@ -1,4 +1,4 @@
 #! /bin/bash
 
-echo "where did sleep last night"
+echo "where did you sleep last night"
 
